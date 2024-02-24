@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **cloud Computing, Networking, Linux and DevOps tools**
 
-- 📫 How to reach me **sumankarkii551@gmail.com, sumanoffice520@gmail.com**
+- 📫 How to reach me **sumanoffice520@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
