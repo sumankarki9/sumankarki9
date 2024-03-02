@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sum_karki" target="blank"><img src="https://img.shields.io/twitter/follow/sum_karki?logo=twitter&style=for-the-badge" alt="sum_karki" /></a> </p>
 
-- 🔭 I’m currently working as **Network and System Engineer**
+- 🔭 Fluent with hands-on experience in **Network and Linux System**
 
 - 🌱 I’m currently learning **Cloud Computing and DevOps**
 
