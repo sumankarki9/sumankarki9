@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing and DevOps**
 
-- 👨‍💻 All of my projects are available at [(https://sumankarki1.com.np/))
+- 👨‍💻 All of my projects are available at https://sumankarki1.com.np
 
 - 💬 Ask me about **cloud Computing, Networking, Linux and DevOps tools**
 
